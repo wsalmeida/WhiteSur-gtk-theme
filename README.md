@@ -1,9 +1,9 @@
 <h1 align="center"> WhiteSur GTK Theme </h1>
 <p align="center"> <img src="docs/macbook.png"/> </p>
-<p> This project is a fork of another project https://github.com/vinceliuice/WhiteSur-gtk-theme </p>
+<p> This project is based on another https://github.com/vinceliuice/WhiteSur-gtk-theme </p>
 
 # Installation is easy!
-<details> <summary> Required dependencies info for nerds </summary>
+<details> <summary> Required dependencies info </summary>
 
 ### Gtk2 theme required
 - gtk-murrine-engine     `Fedora/RedHat`
@@ -17,11 +17,14 @@
 - libxml2-utils          `ubuntu 18.04` `debian 10.03` `linux mint 19`
 - glib2-devel            `Fedora` `Redhat`
 
-Don't worry, WhiteSur installer already provides all of those dependencies.
-</details>
-
-## Quick install
+## Local installation
 
 ### Use the stable package
 You can choose the compressed file [compiled in stable version](src) 
 and unzip it to the theme folder `~/.themes` under the user folder.
+
+## Global installation
+
+### Use the stable package
+You can choose the compressed file [compiled in stable version](src) 
+and unzip it to the theme folder `/usr/share/themes` under the user folder.
