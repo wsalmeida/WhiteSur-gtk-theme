@@ -1,6 +1,6 @@
 <h1 align="center"> WhiteSur GTK Theme </h1>
 <p align="center"> <img src="docs/macbook.png"/> </p>
-<p This project is a fork of another project https://github.com/vinceliuice/WhiteSur-gtk-theme </p>
+<p> This project is a fork of another project https://github.com/vinceliuice/WhiteSur-gtk-theme </p>
 
 # Installation is easy!
 <details> <summary> Required dependencies info for nerds </summary>
