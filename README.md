@@ -10,7 +10,7 @@
 - gtk2-engines-murrine   `Ubuntu/Mint/Debian`
 - gtk-engine-murrine     `Arch/Manjaro`
 
-### Install from source required
+### Required libraries
 - sassc
 - libglib2.0-dev-bin     `ubuntu 20.04`
 - libglib2.0-dev         `ubuntu 18.04` `debian 10.03` `linux mint 19`
