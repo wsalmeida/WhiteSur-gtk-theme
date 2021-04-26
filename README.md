@@ -1,7 +1,6 @@
 <h1 align="center"> WhiteSur GTK Theme </h1>
 <p align="center"> <img src="docs/macbook.png"/> </p>
 <p> This project is based on another https://github.com/vinceliuice/WhiteSur-gtk-theme </p>
-<br>
 e and also https://www.pling.com/p/1403328/
 
 # Installation is easy!
